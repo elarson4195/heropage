@@ -1,0 +1,58 @@
+@charset "utf-8";
+body {
+    background-color: #2A2A2A;
+}
+
+header {
+    padding-top: 10;
+    padding-right: px;
+    padding-left: px;
+    font-family: "Roboto", snas-serif;
+    font-weight: 300;
+    font-style: normal;
+    color: #FDAC22;
+    background-color: #F2F4E6;
+    margin: auto;
+    width: 97%;
+}
+article {
+    margin: 5 px;
+}
+h2   {
+    font-family: "Roboto", sans-serif;
+
+    margin-top: 10
+%
+%;
+    margin-top: 50 px;
+}
+
+.pagebox {
+    width: 97%;
+    margin: auto;
+    background-color: #F2F4E6;
+    height: 10
+%}
+.corgi {
+    background-color: #FF0004;
+}
+h3 {
+    font-family: "Roboto", sans-serif;
+    font-size: 24px;
+}
+h4 {
+    font-family: "Roboto", sans-serif;
+    font-size: 24px;
+}
+
+footer {
+    text-align: center;
+}
+article ol li {
+}
+.universe {
+
+}
+ul {
+    list-style-type: circle;
+}
